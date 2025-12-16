@@ -9,5 +9,5 @@ Email list sign up form
 <hr>
 Redirect link to Portland ASL Trivia Night (Facebook's page)
 <hr>
-<img width="442" height="446" alt="image" src="https://github.com/user-attachments/assets/0c07e889-edd7-40b6-9998-f71c276b7b1d" />
+<img width="224" height="223" alt="image" src="https://github.com/user-attachments/assets/0c07e889-edd7-40b6-9998-f71c276b7b1d" />
 <hr>
