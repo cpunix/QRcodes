@@ -4,5 +4,5 @@ Email question
 <hr>
 Email list sign up form
 <hr>
-<img width="444" height="442" alt="image" src="https://github.com/user-attachments/assets/e643c339-9898-467c-acc6-ac1ca1becb00" />
+<img width="224" height="223" alt="image" src="https://github.com/user-attachments/assets/e643c339-9898-467c-acc6-ac1ca1becb00" />
 <hr>
